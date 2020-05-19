@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/joshh152/Clock-App/blob/master/assets/s1.jpg" width=300>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/joshh152/Clock-App/blob/master/assets/s2.jpg" width=300>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
