@@ -2,7 +2,7 @@
 
 A functional alarm clock utilizing Neumorphism UI and Custom paint.
 
-Star⭐ the repo if you like what you see😉.
+Star⭐ the repo if you like what you see😉
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/localdev_.svg?style=social)](https://twitter.com/localdev_)
 
